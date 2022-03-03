@@ -1,2 +1,0 @@
-export const BASIC_FUSION_CREATE_COUNT = 30;
-export const SUPERIOR_FUSION_CREATE_COUNT = 20;
