@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/fusion-calc/static/css/main.f3a452bd.css",
-    "main.js": "/fusion-calc/static/js/main.924350fc.js",
+    "main.js": "/fusion-calc/static/js/main.a187d4ed.js",
     "static/js/27.d9b0ecf5.chunk.js": "/fusion-calc/static/js/27.d9b0ecf5.chunk.js",
     "index.html": "/fusion-calc/index.html"
   },
   "entrypoints": [
     "static/css/main.f3a452bd.css",
-    "static/js/main.924350fc.js"
+    "static/js/main.a187d4ed.js"
   ]
 }
